@@ -5,7 +5,7 @@ public class AnotherClass {
 	int newResult;
 	int myResult1;
 	ClassForMath aaa;
-//rejerjerjerjerjrejrejrjejer	
+//rejerjerj
 	public int  AnotherClass(){
  ClassForMath math1 = new ClassForMath();
   myResult1=math1.multiply(5, 6);
@@ -16,10 +16,10 @@ public class AnotherClass {
 	public int  newMultiplicity(int x, int y){
 		  myResult=aaa.multiply(x, y);
 		  return myResult;
-		  //ddddddddddddddddddddd
+		  //
 	}
 	
-	//ddddddddddddddddddddd
+	//testtest
 		  
 	public int  NewSumma(int num)	{
 		newResult=myResult+num;
