@@ -15,7 +15,7 @@ public class ClassForMath {
     }
     public int division (int x, int y) {
             return (x / y); 
-            ///dfsdfsdffs
+            ///
     }
     public int division2 (int x, int y) {
         return (x / y); 
