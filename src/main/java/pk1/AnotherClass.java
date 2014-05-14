@@ -19,7 +19,7 @@ public class AnotherClass {
 		  //
 	}
 	
-	//testtest
+	//test
 		  
 	public int  NewSumma(int num)	{
 		newResult=myResult+num;

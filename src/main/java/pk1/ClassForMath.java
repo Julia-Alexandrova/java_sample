@@ -19,7 +19,7 @@ public class ClassForMath {
     }
     public int division2 (int x, int y) {
         return (x / y); 
-        ///dfsdfsdffs
+        ///dfsdf
 }
     public int division3 (int x, int y) {
         return (x / y); 
