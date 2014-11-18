@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE vcs-root SYSTEM "../../../project-config.dtd">
-
-<vcs-root type="jetbrains.git">
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="f510fbb0-b8fc-47d1-bbaa-0f1f8f9b2796" type="jetbrains.git" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
   <name>file:///C:\GitHub\java_sample</name>
   <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
   <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />

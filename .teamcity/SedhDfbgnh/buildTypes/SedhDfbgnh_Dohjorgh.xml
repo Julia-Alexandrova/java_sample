@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE build-type SYSTEM "../../../project-config.dtd">
-
-<build-type>
+<build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="c60fad1f-7213-434d-b076-c229c5adb933" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
   <name>dohjorgh</name>
   <description />
   <settings>
