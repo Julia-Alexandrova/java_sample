@@ -5,7 +5,7 @@ public class ClassForMath {
     public int multiply(int x, int y) {
             return x * y;
         }
-   //dddddddddddddddddd 
+   //dddddddddddd
     
     public int summa (int x, int y) {
         return (x+ y);
@@ -23,11 +23,11 @@ public class ClassForMath {
 }
     public int division3 (int x, int y) {
         return (x / y); 
-        ///dfsdfsdffs
+        ///dfsdfs
 }
     public int division4 (int x, int y) {
         return (x / y); 
-        ///dfsdfsdffs
+        ///dfsdf
 }
    
     public int double_summa (int x, int y) {
@@ -44,5 +44,5 @@ public class ClassForMath {
     public int multiply2(int x, int y) {
                 return x * y;
             }
-////fgdfgdfgdfgdgdfgdg.....
+////fgdfgdfg....
 }
