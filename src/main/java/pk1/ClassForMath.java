@@ -5,7 +5,7 @@ public class ClassForMath {
     public int multiply(int x, int y) {
             return x * y;
         }
-   //dddddddddddddddddd 
+   //ddd 
     
     public int summa (int x, int y) {
         return (x+ y);
