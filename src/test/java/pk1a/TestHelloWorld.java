@@ -1,6 +1,5 @@
 package test.java.pk1a;
 
-//dfsfdfsfdsf
 //tester1
 //tester1
 //tester1
