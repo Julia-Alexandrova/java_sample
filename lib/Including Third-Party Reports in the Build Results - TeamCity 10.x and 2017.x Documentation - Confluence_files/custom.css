@@ -1,0 +1,65 @@
+
+/* Custom styles for Confluence (included for all themes by default) */
+
+                #theme-header  
+{position:fixed;  
+width:100%;  
+z-index:999;}  
+  
+#breadcrumb-section  
+{padding-top:30px;}  
+#breadcrumbs  
+{padding-bottom:30px;}  
+  
+#navigation  
+{padding-top:30px;}  
+{padding-bottom:30px;}  
+  
+body#tinymce  
+{padding-top:50px;}  
+
+/*#theme-header
+{position:fixed;
+width:100%;
+z-index:999;}
+
+#breadcrumb-section
+{padding-top:60px;}
+#breadcrumbs
+{padding-bottom:30px;}
+
+#navigation
+{padding-top:60px;}
+{padding-bottom:30px;}
+
+body#tinymce
+{padding-top:50px;}
+
+#toolbar:after {
+content: 'You are editing TeamCity 10.x documentation! If required, add the relevant changes to TeamCity 9.x documentation!';
+    display: block;
+    padding-top: 5px;
+    border: 1px solid ##ffcc99;
+    background: #ffcc99;
+    font-size: 14px;
+    position: fixed;
+    width: 100%;}
+
+/*#header .aui-header  {
+       background-image:url('../download/attachments/658833839/header.png');
+       background-repeat: no-repeat;
+    }*\
+
+#header .aui-header {background-color:#000000;}
+/*{warning}You are viewing the documentation of TeamCity 10.x, currently under development. {spacejump:TCD9|alias=View this page in TeamCity 9.x documentation} or select a version from the [listing| TW:Documentation].{warning}*\
+
+#header {
+border-bottom: 3px solid #F89828;
+background: #666;
+border-bottom: 3px solid #F89828;
+}  *\  
+
+
+/* End custom styles for Confluence */
+
+
